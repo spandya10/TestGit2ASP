@@ -21,7 +21,7 @@
         <asp:Label ID="lblUnm" runat="server" Text="Username" Font-Names="Product Sans"></asp:Label>
     </td>
     <td>
-        <asp:TextBox ID="tbUnm" runat="server"></asp:TextBox>
+        <asp:TextBox ID="tbUnm" runat="server" required></asp:TextBox>
     </td>
     </tr>
     <tr><td class="style1" >
